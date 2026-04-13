@@ -1,4 +1,4 @@
-# RAGProject
+# MovieRAG
 
 A simple Python Retrieval-Augmented Generation (RAG) demo using the IMDB Top 1000 movies dataset.
 
